@@ -1,0 +1,10 @@
+{
+  "name": "example-ts",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "author": "pavloff.com@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.6.4"
+  }
+}
