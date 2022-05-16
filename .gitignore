@@ -8,4 +8,5 @@ node_modules
 dist/**/*
 
 # ignore yarn.lock
-yarn.lock
+yarn-debug.log*
+yarn-error.log*
